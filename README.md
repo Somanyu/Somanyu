@@ -1,6 +1,7 @@
 <h1 align="center">Heyo <img src= "./Assests/Hi.gif" width="25px"> I'm Somanyu Samal</h1>
 
 <h3 align="center">A lazy homo-sapien who only love to eat, code and sleep</h3>
+<h3 align="center">But also loves to learn new technology, innovate and help other mates.</h3>
 
 <h1 align="center"><img src="Assests/homo.gif"></h1>
 
