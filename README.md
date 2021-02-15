@@ -2,15 +2,11 @@
 
 <h3 align="center">A lazy homo-sapien who only love to eat, code and sleep</h3>
 <h3 align="center">But also loves to learn new technology, innovate and help other mates.</h3>
-
 <h1 align="center"><img src="Assests/homo.gif"></h1>
 
-<!--
-**Somanyu/Somanyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## *Get to know something about me* 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -18,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
