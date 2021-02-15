@@ -4,10 +4,15 @@
 <h3 align="center">But also loves to learn new technology, innovate and help other mates.</h3>
 <h1 align="center"><img src="Assests/homo.gif"></h1>
 
-## *Get to know something about me*      :sparkling_heart:
+<p align="center">
+<img src="https://img.shields.io/badge/MadeWith-%F0%9F%92%98-white">
 
-- 🔭 I’m currently working on  **Web Development** 🌐
-- 🌱 I’m currently learning 
+<img src="https://img.shields.io/twitter/follow/vadaa_pav?style=social">
+
+## _Get to know something about me_ :sparkling_heart:
+
+- 🔭 I’m currently working on **Web Development** 🌐
+- 🌱 I’m currently learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,3 +20,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+  <table>
+   <tr>
+    <td><strong>You Are Visitor no.</td>
+    <td><img src="https://profile-counter.glitch.me/Somanyu/count.svg" alt="vistor count" height="50" /></td>
+   </tr>
+  </table>
