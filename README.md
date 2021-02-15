@@ -23,6 +23,6 @@
   <table>
    <tr>
     <td><strong>You Are Visitor no.</td>
-    <td><img src="https://profile-counter.glitch.me/Somanyu/count.svg" alt="vistor count" height="50" /></td>
+    <td><img src="https://profile-counter.glitch.me/Somanyu/count.svg" alt="vistor count" height="30" /></td>
    </tr>
   </table>
