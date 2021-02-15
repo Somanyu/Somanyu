@@ -1,6 +1,8 @@
 <h1 align="center">Heyo <img src= "./Assests/Hi.gif" width="25px"> I'm Somanyu Samal</h1>
 
-<h2 align="center">A lazy homo-sapien who only eats, codes and sleeps
+<h3 align="center">A lazy homo-sapien who only love to eat, code and sleep</h3>
+
+<img src="https://giphy.com/gifs/QNFhOolVeCzPQ2Mx85/html5">
 
 <!--
 **Somanyu/Somanyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
