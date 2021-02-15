@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Heyo <img src= "./Assests/Hi.gif" width="25px"> I'm Somanyu Samal</h1>
+
+<h2 align="center">A lazy homo-sapien who only eats, codes and sleeps
 
 <!--
 **Somanyu/Somanyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
