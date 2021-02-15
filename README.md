@@ -2,7 +2,7 @@
 
 <h3 align="center">A lazy homo-sapien who only love to eat, code and sleep</h3>
 
-<h1 align="center"><img src="https://gph.is/2CgRwO2"></h1>
+<h1 align="center"><img src="Assests/homo.gif"></h1>
 
 <!--
 **Somanyu/Somanyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
