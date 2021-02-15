@@ -4,10 +4,10 @@
 <h3 align="center">But also loves to learn new technology, innovate and help other mates.</h3>
 <h1 align="center"><img src="Assests/homo.gif"></h1>
 
-## *Get to know something about me* 
+## *Get to know something about me*      :sparkling_heart:
 
-- 🔭 I’m currently working on
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on  **Web Development**
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
