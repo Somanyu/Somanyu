@@ -21,7 +21,7 @@ Currently I am engineering student with major in Information Technology. Coding 
 
 <br>
 
-<h2 align="center"><stromg>Languages Learning ✍</strong></h2>
+<h2 align="center"><strong>Languages Learning ✍</strong></h2>
 
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?&logo=python&logoColor=blue"/>
@@ -35,21 +35,53 @@ Currently I am engineering student with major in Information Technology. Coding 
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&logo=css3&logoColor=white"/>
 
 <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white"/>
+
+<img alt="JavaScript" src="https://img.shields.io/badge/Javascript%20-%23323330.svg?&logo=javascript&logoColor=white"/>
 </p>
 
 <br>
 
-<h2 align="center">Version Control</h2>
+<h2 align="center"><strong>Technologies 🖥</strong></h2>
 <p align="center">
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&logo=git&logoColor=white"/>
+
 <img alt="GitHub" src="https://img.shields.io/badge/GithHub%20-%23121011.svg?&logo=github&logoColor=white"/>
+
+<img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&logo=google-cloud&logoColor=white"/>
+
+<img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&logo=amazon-aws&logoColor=white"/>
+
+<img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD%20-%23FF26BE.svg?&logo=adobe%20xd&logoColor=white"/>
+
+<img alt="Linux" src="https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624"/>
 </p>
 
 <br>
 
-*Listen to my most favourites on Spotify*
+<p align="center">  
+<img src="https://github-readme-stats.vercel.app/api?username=Somanyu&show_icons=true&theme=dark">  
+</p>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Somanyu&theme=dark) -->
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fh0rc7azsybzpdmkwvnnsa2c7)
+<br>
+
+<h2 align="center"><i>Listen to my Favoutites</i></h2>
+<p align="center">
+<img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=fh0rc7azsybzpdmkwvnnsa2c7"></img>
+</p>
+<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fh0rc7azsybzpdmkwvnnsa2c7) -->
+
+<br>
+
+<h1 align="center"><i>Find Me On </i>🕺</h1>
+<p align="center"><img alt="Instagram" src="https://img.shields.io/badge/soooo.many%20-%23E4405F.svg?&logo=Instagram&logoColor=white"/>
+
+<img alt="Twitter" src="https://img.shields.io/badge/vadaa_pav%20-%231DA1F2.svg?&logo=Twitter&logoColor=white"/>
+
+</p>
+
+<br>
+
 
   <!-- <table>
    <tr>
