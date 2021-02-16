@@ -82,6 +82,7 @@ Currently I am engineering student with major in Information Technology. Coding 
 
 <br>
 
+[![Instagram](https://img.shields.io/badge/soooo.many%20-%23E4405F.svg?&logo=Instagram&logoColor=white)](https://www.instagram.com/soooo.many/)
 
   <!-- <table>
    <tr>
