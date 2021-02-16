@@ -11,14 +11,11 @@
 
 ## _Get to know something about me_ :sparkling_heart:
 
-- 🔭 I’m currently working on **Web Development** 🌐
-- 🌱 I’m currently learning
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Web Development 🌐
+- 🌱 I’m currently learning Backend Langages and Data Structures 🤖
+- 🤔 I’m looking for help with Web Pentesting 🐞
+- 💬 Ask me about Python 🐍
+- ⚡ Fun fact: some call me lazy but that's the other name for automation 😁
 
   <table>
    <tr>
