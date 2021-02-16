@@ -54,6 +54,8 @@ Currently I am engineering student with major in Information Technology. Coding 
 <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD%20-%23FF26BE.svg?&logo=adobe%20xd&logoColor=white"/>
 
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624"/>
+
+<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
 <br>
@@ -73,20 +75,17 @@ Currently I am engineering student with major in Information Technology. Coding 
 
 <br>
 
-<h1 align="center"><i>Find Me On </i>🕺</h1>
-<p align="center"><img alt="Instagram" src="https://img.shields.io/badge/soooo.many%20-%23E4405F.svg?&logo=Instagram&logoColor=white"/>
+<h2 align="left"><strong><i>Find Me On </i>🕺</h1>
 
-<img alt="Twitter" src="https://img.shields.io/badge/vadaa_pav%20-%231DA1F2.svg?&logo=Twitter&logoColor=white"/>
-
-</p>
+[![Instagram](https://img.shields.io/badge/soooo.many%20-%23E4405F.svg?&logo=Instagram&logoColor=white)](https://www.instagram.com/soooo.many/) [![Twitter](https://img.shields.io/badge/vadaa_pav%20-%231DA1F2.svg?&logo=Twitter&logoColor=white)](http://twitter.com/vadaa_pav) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somanyusamal) [![Github](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Somanyu) [![GMail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)]()
 
 <br>
 
-[![Instagram](https://img.shields.io/badge/soooo.many%20-%23E4405F.svg?&logo=Instagram&logoColor=white)](https://www.instagram.com/soooo.many/)
-
-  <!-- <table>
+  <table>
    <tr>
-    <td><strong>You Are Visitor no.</td>
+    <td><h2><strong>Visitors :</h2></td>
     <td><img src="https://profile-counter.glitch.me/Somanyu/count.svg" alt="vistor count" height="30" /></td>
    </tr>
-  </table> -->
+  </table>
+
+  *Thank You for viewing my GitHub profile, if you like my profile consider to CONTRIBUTE to any of my repos*  :heart: *You can suggest any features or improve my code in any my repos by submitting a pull request*  :thumbsup: *If you find any issues in my repos you can raise a issue*  :octocat:
