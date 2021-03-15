@@ -90,4 +90,3 @@ Currently I am engineering student with major in Information Technology. Coding 
 
   *Thank You for viewing my GitHub profile, if you like my profile consider to CONTRIBUTE to any of my repos*  :heart: *You can suggest any features or improve my code in any my repos by submitting a pull request*  :thumbsup: *If you find any issues in my repos you can raise a issue*  :octocat:
 
-*A huge **SHOUTOUT** to* [@srija920](https://github.com/srija920) *for helping me create this amazing README profile*  :tada:
