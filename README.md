@@ -2,7 +2,7 @@
 
 <h3 align="center">A lazy homo-sapien 👨‍💻 who only love to eat, code and sleep
 But also loves to learn new technology, innovate and help other mates 🙋‍♂️
-Currently I am engineering student with major in Information Technology. Coding has always been my favourite since I started hating maths 😝 </h3>
+Currently I am engineering student with major in Information Technology. Coding has always been my favourite since I started hating maths. </h3>
 
 <h1 align="center"><img src="Assests/homo.gif"></h1>
 
