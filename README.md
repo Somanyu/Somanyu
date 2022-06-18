@@ -1,4 +1,4 @@
-<h1 align="center">Heyo <img src= "./Assests/Hi.gif" width="10px"> I'm Somanyu Samal</h1>
+<h1 align="center">Heyo I'm Somanyu Samal</h1>
 
 <h3 align="center">A lazy homo-sapien 👨‍💻 who only love to eat, code and sleep
 But also loves to learn new technology, innovate and help other mates 🙋‍♂️
