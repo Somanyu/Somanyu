@@ -4,7 +4,7 @@
 But also loves to learn new technology, innovate and help other mates 🙋‍♂️
 Currently I am engineering student with major in Information Technology. Coding has always been my favourite since I started hating maths. </h3>
 
-<h1 align="center"><img src="Assests/homo.gif"></h1>
+<!-- <h1 align="center"><img src="Assests/homo.gif"></h1> -->
 
 <p align="center">
 <img src="https://img.shields.io/badge/MadeWith-%F0%9F%92%98-white">
